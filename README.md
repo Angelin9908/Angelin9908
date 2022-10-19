@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Activity Trends
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Angelin9908&theme=dracula&hide_border=true)
+
+**Page Views**(Counting since 14th Nov 2022): ![Visitor Count](https://profile-counter.glitch.me/Angelin9908/count.svg)
